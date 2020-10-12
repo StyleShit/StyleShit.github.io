@@ -240,12 +240,12 @@ body
 
     .ticket-price
     {
-        font-size: 2rem;
+        font-size: 2em;
     }
 
     .pre-order-btn
     {
-        font-size: 1.2rem;
+        font-size: 1.2em;
         float: none;
         margin: 30px;
     }
@@ -253,6 +253,7 @@ body
     .movie-release-date-container
     {
         margin: auto;
+        border-width: 3px;
     }
 }
 
